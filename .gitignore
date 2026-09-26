@@ -1,0 +1,5 @@
+*-backups
+gerbers
+_autosave*
+*-cache
+*.lck
