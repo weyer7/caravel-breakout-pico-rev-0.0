@@ -8311,12 +8311,8 @@
 		(uuid "1f1b700b-e0f7-468a-9ec3-e9d715e394cf")
 	)
 	(no_connect
-		(at 285.75 184.15)
-		(uuid "21dca50f-949a-424e-bbee-956afdf9652b")
-	)
-	(no_connect
-		(at 285.75 163.83)
-		(uuid "2b11ee49-0c1b-415f-b22d-83d224a39177")
+		(at 109.22 33.02)
+		(uuid "21d3114f-c52e-4f94-be35-2c98e7ee1046")
 	)
 	(no_connect
 		(at 234.95 179.07)
@@ -8325,10 +8321,6 @@
 	(no_connect
 		(at 381.508 130.302)
 		(uuid "37275ebe-95d7-4c96-bc85-a11dcfdfed25")
-	)
-	(no_connect
-		(at 285.75 166.37)
-		(uuid "3783818c-0fb7-428a-b182-020a221dd318")
 	)
 	(no_connect
 		(at 83.82 158.75)
@@ -8355,36 +8347,20 @@
 		(uuid "82e2cbe2-9e84-4a6e-9043-09cb34f5638d")
 	)
 	(no_connect
-		(at 285.75 161.29)
-		(uuid "885bace8-b453-4640-87c8-2b3b5cf53819")
-	)
-	(no_connect
 		(at 285.75 118.11)
 		(uuid "88846d41-107f-4df8-9e4f-65fa7165674d")
 	)
 	(no_connect
-		(at 285.75 158.75)
-		(uuid "9d7b64b9-5d18-49d3-9e20-6fede0ac6ec1")
+		(at 109.22 35.56)
+		(uuid "9784d36d-23b3-4cbe-a1ca-f320ba6fcc50")
 	)
 	(no_connect
 		(at 335.788 83.312)
 		(uuid "9d8b230c-27a8-4c6e-a1ff-f8683e0e05c2")
 	)
 	(no_connect
-		(at 285.75 181.61)
-		(uuid "ab367828-221c-42c7-a1e9-674849e4dbac")
-	)
-	(no_connect
-		(at 285.75 168.91)
-		(uuid "b2839c3a-6b00-4ad2-b55b-fdec29bc9e9b")
-	)
-	(no_connect
 		(at 285.75 110.49)
 		(uuid "bea32f64-99d5-4a47-bdeb-e6dcfd408ed9")
-	)
-	(no_connect
-		(at 285.75 171.45)
-		(uuid "caac37fb-fdf7-4255-a45c-8d8a274c16ec")
 	)
 	(no_connect
 		(at 335.788 88.392)
@@ -8443,6 +8419,16 @@
 			(type default)
 		)
 		(uuid "025808dc-6be2-4f71-b388-76811768dd7d")
+	)
+	(wire
+		(pts
+			(xy 285.75 184.15) (xy 299.72 184.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02e1b62a-74e3-480e-9953-86580a0282c9")
 	)
 	(wire
 		(pts
@@ -8593,6 +8579,16 @@
 			(type default)
 		)
 		(uuid "0d0b2531-1443-41bc-80ca-4bf80cb776a1")
+	)
+	(wire
+		(pts
+			(xy 97.79 256.54) (xy 102.87 256.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d8effe4-1705-4697-99f5-19621b785793")
 	)
 	(polyline
 		(pts
@@ -8763,6 +8759,16 @@
 			(type dash)
 		)
 		(uuid "17de03aa-02f1-4c75-a99c-c6cd1a1dea97")
+	)
+	(wire
+		(pts
+			(xy 285.75 181.61) (xy 299.72 181.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18b89dba-9c57-457d-8dc2-9e28d7c0e086")
 	)
 	(wire
 		(pts
@@ -9136,6 +9142,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 140.97) (xy 91.44 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2daf635b-d39a-43d4-ae86-7504ee8d8a3a")
+	)
+	(wire
+		(pts
 			(xy 137.16 140.97) (xy 160.02 140.97)
 		)
 		(stroke
@@ -9496,6 +9512,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 125.73) (xy 91.44 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b74ab3c-ea1a-4e7f-891b-339a0e2681c3")
+	)
+	(wire
+		(pts
 			(xy 41.91 80.01) (xy 21.082 80.01)
 		)
 		(stroke
@@ -9643,16 +9669,6 @@
 			(type default)
 		)
 		(uuid "53cc9ad9-a959-470f-9488-9413c23eedc6")
-	)
-	(wire
-		(pts
-			(xy 109.22 35.56) (xy 119.38 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5665cb3d-fc05-400a-bd52-cf93012d3e11")
 	)
 	(wire
 		(pts
@@ -9863,6 +9879,16 @@
 			(type default)
 		)
 		(uuid "60d5c96f-a210-4a18-883f-7b8898dd3502")
+	)
+	(wire
+		(pts
+			(xy 285.75 163.83) (xy 299.72 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61a6fce6-670b-4e38-8184-9e5a2a4ab057")
 	)
 	(wire
 		(pts
@@ -10136,16 +10162,6 @@
 	)
 	(wire
 		(pts
-			(xy 125.476 33.02) (xy 109.22 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ac3a851-d321-478b-9046-842827de4d74")
-	)
-	(wire
-		(pts
 			(xy 322.58 182.88) (xy 342.9 182.88)
 		)
 		(stroke
@@ -10173,6 +10189,16 @@
 			(type default)
 		)
 		(uuid "7eab79fb-2bdf-43df-b77e-161c9ba02398")
+	)
+	(wire
+		(pts
+			(xy 285.75 166.37) (xy 299.72 166.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eac92f7-9e56-4e94-8594-44a37fc7859d")
 	)
 	(wire
 		(pts
@@ -10586,6 +10612,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 168.91) (xy 299.72 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97258e2a-1d1e-4c73-8954-c7a1dcaa33aa")
+	)
+	(wire
+		(pts
 			(xy 25.4 67.31) (xy 41.91 67.31)
 		)
 		(stroke
@@ -10966,6 +11002,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 158.75) (xy 299.72 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b057fde9-5b88-4e65-aadf-d56d43976644")
+	)
+	(wire
+		(pts
 			(xy 67.31 39.37) (xy 55.88 39.37)
 		)
 		(stroke
@@ -10983,6 +11029,16 @@
 			(type default)
 		)
 		(uuid "b131ba89-8612-4669-a885-09f15b99e47d")
+	)
+	(wire
+		(pts
+			(xy 63.5 138.43) (xy 91.44 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3b49298-c13f-4c39-9c3c-e00817161fe5")
 	)
 	(wire
 		(pts
@@ -11023,6 +11079,16 @@
 			(type default)
 		)
 		(uuid "b94a3df8-3e2f-4497-a1b5-5b0dfea6f78f")
+	)
+	(wire
+		(pts
+			(xy 285.75 171.45) (xy 299.72 171.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b993bf45-e4b0-4f41-a4f9-8c5867c48d02")
 	)
 	(wire
 		(pts
@@ -11266,6 +11332,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 128.27) (xy 91.44 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca6e1aa4-58da-426d-9fb9-e6919d0a5f17")
+	)
+	(wire
+		(pts
 			(xy 335.28 142.9267) (xy 335.28 142.748)
 		)
 		(stroke
@@ -11303,6 +11379,16 @@
 			(type default)
 		)
 		(uuid "cdf60cfd-01ea-46b1-a17a-e8b97cde6afb")
+	)
+	(wire
+		(pts
+			(xy 285.75 161.29) (xy 299.72 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce9ead3d-ca52-4e52-b345-efc13f660e04")
 	)
 	(wire
 		(pts
@@ -11426,6 +11512,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 123.19) (xy 91.44 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d90b5d4c-5025-48fc-bf51-1d1847514d80")
+	)
+	(wire
+		(pts
 			(xy 74.93 167.64) (xy 101.6 167.64)
 		)
 		(stroke
@@ -11473,6 +11569,16 @@
 			(type default)
 		)
 		(uuid "da674ac2-3239-40f4-a3ed-dbc15e6089a4")
+	)
+	(wire
+		(pts
+			(xy 63.5 130.81) (xy 91.44 130.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dab4b4af-7c2e-4c4f-8376-905a10052ec2")
 	)
 	(wire
 		(pts
@@ -11676,6 +11782,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 133.35) (xy 91.44 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea885028-6bf4-4e1e-9c8f-902a5f0b1db7")
+	)
+	(wire
+		(pts
 			(xy 323.342 117.602) (xy 335.788 117.602)
 		)
 		(stroke
@@ -11856,6 +11972,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 135.89) (xy 91.44 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6c213e3-7417-4882-90ca-39136979fac1")
+	)
+	(wire
+		(pts
 			(xy 267.97 99.06) (xy 273.05 99.06)
 		)
 		(stroke
@@ -11994,6 +12120,16 @@
 		)
 		(uuid "01cf37ee-912f-43b4-8f05-c608d1988379")
 	)
+	(label "mprj_io[24]"
+		(at 91.44 130.81 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "05e867b3-d4a7-45e8-94ab-12f3c609e60e")
+	)
 	(label "vccd"
 		(at 165.1 39.37 180)
 		(effects
@@ -12053,6 +12189,16 @@
 			(justify left bottom)
 		)
 		(uuid "0f989088-0b38-4b20-aabc-de6f7a9fdaf0")
+	)
+	(label "CARAVEL_GP26"
+		(at 299.72 161.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "10e7c32a-9be4-489e-8780-1496b70357b9")
 	)
 	(label "mprj_io[36]"
 		(at 393.446 107.442 180)
@@ -12164,6 +12310,16 @@
 		)
 		(uuid "2284abe8-2754-4003-9b71-ac585f3f2d7d")
 	)
+	(label "mprj_io[25]"
+		(at 91.44 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "237f4cd7-9453-494f-b037-401fa6788d0d")
+	)
 	(label "mprj_io[13]"
 		(at 25.4 69.85 0)
 		(effects
@@ -12173,6 +12329,16 @@
 			(justify left bottom)
 		)
 		(uuid "239d71eb-b274-4ae6-adc2-a999d2751794")
+	)
+	(label "mprj_io[21]"
+		(at 91.44 138.43 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "23c9f704-e73c-4201-bc95-a05bd51f098e")
 	)
 	(label "mprj_io[13]"
 		(at 319.024 42.672 0)
@@ -12193,6 +12359,16 @@
 			(justify left bottom)
 		)
 		(uuid "25380f07-9a29-49ab-bd60-c8443589b9ff")
+	)
+	(label "CARAVEL_GP24"
+		(at 299.72 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "25591d5b-c857-499a-afd3-3e55d6b2414b")
 	)
 	(label "mprj_io[25]"
 		(at 393.446 70.612 180)
@@ -12273,6 +12449,16 @@
 			(justify right bottom)
 		)
 		(uuid "3294b0cd-8fd6-475c-997b-eecb831c58ac")
+	)
+	(label "CARAVEL_GP20"
+		(at 299.72 184.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "35aac385-7afa-4543-8bd5-323d2020b629")
 	)
 	(label "MEM_SCK"
 		(at 118.11 38.1 180)
@@ -12474,6 +12660,16 @@
 		)
 		(uuid "4ed91c58-cde3-4042-99a9-edbe9a887ac9")
 	)
+	(label "CARAVEL_GP23"
+		(at 299.72 168.91 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4f7f74f9-547e-4d4c-a84c-3ae8998525c0")
+	)
 	(label "mprj_io[5]_ser_rx"
 		(at 101.6 161.29 180)
 		(effects
@@ -12544,6 +12740,16 @@
 		)
 		(uuid "5fe5837f-9c05-40d9-a223-4801e3e6e3d1")
 	)
+	(label "CARAVEL_GP25"
+		(at 63.5 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6107a564-1709-4487-aa87-018efdaf1003")
+	)
 	(label "mprj_io[2]_SDI"
 		(at 21.082 80.01 0)
 		(effects
@@ -12604,6 +12810,16 @@
 		)
 		(uuid "685117bc-ac2d-44a8-a345-6eb02cefffa9")
 	)
+	(label "CARAVEL_GP22"
+		(at 63.5 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "688696ee-4961-4a96-b4fe-66707454923d")
+	)
 	(label "Caravel_SCK"
 		(at 160.02 143.51 180)
 		(effects
@@ -12634,6 +12850,16 @@
 		)
 		(uuid "6d88a426-83ab-4539-a6e1-a10547e35f75")
 	)
+	(label "CARAVEL_GP26"
+		(at 63.5 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6fe2f96e-ba50-460c-9aef-c29e216ba879")
+	)
 	(label "gpio"
 		(at 228.6 23.622 0)
 		(effects
@@ -12643,6 +12869,16 @@
 			(justify left bottom)
 		)
 		(uuid "700fd9a9-778d-41c9-a530-59c404d8b266")
+	)
+	(label "CARAVEL_GP24"
+		(at 63.5 130.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "71c50b68-5b86-4256-84e9-a45febae73d8")
 	)
 	(label "~{RST}"
 		(at 299.72 128.27 180)
@@ -12734,6 +12970,16 @@
 		)
 		(uuid "7c38bfe8-662a-4386-9c84-576b12e4c95a")
 	)
+	(label "CARAVEL_GP25"
+		(at 299.72 163.83 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7c44d7e8-a8f2-43c3-81fa-873cc5ee0222")
+	)
 	(label "mprj_io[6]_ser_tx"
 		(at 319.024 60.452 0)
 		(effects
@@ -12794,6 +13040,16 @@
 		)
 		(uuid "89410b25-3a50-4f73-b4d1-a3d16a2aab92")
 	)
+	(label "mprj_io[23]"
+		(at 91.44 133.35 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "89b85cae-23ba-46c8-b849-a6a17b01a5df")
+	)
 	(label "LED1"
 		(at 280.67 39.37 0)
 		(effects
@@ -12814,15 +13070,25 @@
 		)
 		(uuid "8c982792-b5d4-4a95-acff-76d65e0d9341")
 	)
-	(label "~{MEM_WP}"
-		(at 125.476 33.02 180)
+	(label "CARAVEL_GP20"
+		(at 63.5 140.97 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8d24f15c-696e-49fa-9549-0293c438dd49")
+	)
+	(label "mprj_io[27]"
+		(at 91.44 123.19 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "8ce532e3-05ee-4422-88e5-457df8d4a247")
+		(uuid "907340c7-83d1-43e6-945a-120d0a78c42e")
 	)
 	(label "mprj_io[12]"
 		(at 25.4 67.31 0)
@@ -12854,6 +13120,16 @@
 		)
 		(uuid "944c52f1-4bc7-4e69-86b9-5b46cf159e58")
 	)
+	(label "CARAVEL_GP22"
+		(at 299.72 171.45 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9472d77e-a517-4812-a5b9-b29d7d7965cc")
+	)
 	(label "USB_D-"
 		(at 234.95 83.82 180)
 		(effects
@@ -12873,6 +13149,16 @@
 			(justify right bottom)
 		)
 		(uuid "97648913-246f-4552-8f2d-c174f41fbc20")
+	)
+	(label "mprj_io[26]"
+		(at 91.44 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "97b8e403-27a3-4e62-805b-78c85ed9c1f5")
 	)
 	(label "mprj_io[1]_SDO"
 		(at 167.64 176.53 180)
@@ -12903,6 +13189,16 @@
 			(justify left bottom)
 		)
 		(uuid "9d02a0c9-0704-444c-8352-ef774b3c6aaa")
+	)
+	(label "RUN"
+		(at 102.87 256.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9df33458-0fe3-41af-a406-0126338e8330")
 	)
 	(label "MEM_SI"
 		(at 313.69 187.96 0)
@@ -12953,6 +13249,16 @@
 			(justify left bottom)
 		)
 		(uuid "a3bc8d7e-23ba-4d62-8372-33fe22557138")
+	)
+	(label "CARAVEL_GP21"
+		(at 63.5 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a45bf65b-ee9b-477d-883d-2d65c623fa54")
 	)
 	(label "vccd1"
 		(at 165.1 36.83 180)
@@ -13013,6 +13319,16 @@
 			(justify right bottom)
 		)
 		(uuid "a98e6e59-cbb2-4a58-8f4c-37de718d520e")
+	)
+	(label "CARAVEL_GP27"
+		(at 299.72 158.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aab80066-e20e-42e7-b5bb-63ed51f4b779")
 	)
 	(label "~{RST}"
 		(at 170.18 55.88 180)
@@ -13193,6 +13509,16 @@
 			(justify right bottom)
 		)
 		(uuid "bb179496-6af8-4b1d-b448-f2578f2d4550")
+	)
+	(label "mprj_io[20]"
+		(at 91.44 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bc88af8e-84db-4f88-9d40-20bd59608c1f")
 	)
 	(label "mprj_io[6]_ser_tx"
 		(at 20.066 52.07 0)
@@ -13404,16 +13730,6 @@
 		)
 		(uuid "dfa96702-5752-42ad-8292-e15255109820")
 	)
-	(label "~{MEM_HOLD}"
-		(at 119.38 35.56 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e12f6c05-d747-4116-ba1f-b9d15667af99")
-	)
 	(label "LED1"
 		(at 299.72 133.35 180)
 		(effects
@@ -13423,6 +13739,16 @@
 			(justify right bottom)
 		)
 		(uuid "e1919806-4b26-486a-b7b0-8ded3aef921a")
+	)
+	(label "mprj_io[22]"
+		(at 91.44 135.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e19f893b-479e-4c24-bfbb-b4fcc15237d5")
 	)
 	(label "~{RST}"
 		(at 319.278 125.222 0)
@@ -13463,6 +13789,16 @@
 			(justify left bottom)
 		)
 		(uuid "e8dd5e03-74e8-4dad-8184-7fd93222ad37")
+	)
+	(label "CARAVEL_GP21"
+		(at 299.72 181.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e9534099-3870-4389-8b9c-a56d588038a4")
 	)
 	(label "mprj_io[24]"
 		(at 393.446 68.072 180)
@@ -13574,6 +13910,16 @@
 		)
 		(uuid "f212c268-8a62-417f-b64f-12d4d1543dcb")
 	)
+	(label "CARAVEL_GP27"
+		(at 63.5 123.19 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f290cffd-1071-440c-9493-02d813eb2047")
+	)
 	(label "mprj_io[0]"
 		(at 319.024 75.692 0)
 		(effects
@@ -13603,6 +13949,16 @@
 			(justify right bottom)
 		)
 		(uuid "f59d0787-8c9f-45a8-9505-91177fda49e9")
+	)
+	(label "CARAVEL_GP23"
+		(at 63.5 133.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f6c27cf9-fb4b-4001-a361-abea17e77f86")
 	)
 	(label "vccd"
 		(at 323.342 115.062 0)
@@ -13835,7 +14191,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "034aab67-19c2-4d54-8b7f-145fe319550e")
-		(property "Reference" "R19"
+		(property "Reference" "R15"
 			(at 335.28 178.562 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13907,7 +14263,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R19")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -13925,7 +14281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "03ce816e-9f71-49b2-be82-790ea1d66ecb")
-		(property "Reference" "U12"
+		(property "Reference" "U2"
 			(at 205.74 147.3199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14007,7 +14363,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U12")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -14024,7 +14380,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "048b0221-2925-44bf-bb0c-79130e6b5650")
-		(property "Reference" "R17"
+		(property "Reference" "R13"
 			(at 327.66 178.308 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14096,7 +14452,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R17")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -14113,7 +14469,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0591f1cf-35ee-4e54-80f8-afad56d5096e")
-		(property "Reference" "C2"
+		(property "Reference" "C1"
 			(at 135.89 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14185,7 +14541,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C2")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -14202,7 +14558,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "05c664e0-91bf-4d4c-b731-fc78aec6f990")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR014"
 			(at 198.12 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -14305,7 +14661,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR025")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -14322,7 +14678,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0623042b-95b8-4b92-8dfb-c91e434501c8")
-		(property "Reference" "C35"
+		(property "Reference" "C17"
 			(at 268.732 75.438 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14394,7 +14750,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C35")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -14411,7 +14767,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0bf0f845-2939-420a-825b-9b8b9d67f351")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 296.418 130.048 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14483,7 +14839,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -14590,7 +14946,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0d1e038d-b007-464c-ace5-928f82e35af7")
-		(property "Reference" "R15"
+		(property "Reference" "R11"
 			(at 298.45 44.196 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14662,7 +15018,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R15")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -14679,7 +15035,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f9492a5-d158-41c1-98ef-902f0160d1af")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR017"
 			(at 200.66 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -14782,7 +15138,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR071")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -14799,7 +15155,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1159ad6b-a3e5-436c-b753-059610d3112b")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR04"
 			(at 64.77 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -14902,7 +15258,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR010")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -14919,7 +15275,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "123bf4df-0f9b-4d11-a398-341d1080a8b7")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR024"
 			(at 217.17 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -14978,7 +15334,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR069")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -14996,7 +15352,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14837876-6c06-4120-b39b-2582914b0028")
-		(property "Reference" "C17"
+		(property "Reference" "C21"
 			(at 288.925 248.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15068,7 +15424,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C17")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -15085,7 +15441,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "15d2d9e6-1cf8-426d-8556-d4747d90ecb5")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR025"
 			(at 226.822 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -15188,7 +15544,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR035")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -15281,7 +15637,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1989451f-6bb9-481f-95a1-87b6150e3fa8")
-		(property "Reference" "C31"
+		(property "Reference" "C22"
 			(at 287.782 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15353,7 +15709,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C31")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -15370,7 +15726,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1a2deb0a-8a54-46bd-8279-1b87e80ff10c")
-		(property "Reference" "U7"
+		(property "Reference" "U5"
 			(at 275.59 237.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15441,7 +15797,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U7")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -15549,7 +15905,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1ccb57f7-9862-46f9-9083-bdb73c5913df")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR013"
 			(at 191.77 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -15608,7 +15964,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR023")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -15625,7 +15981,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1db1962a-02d3-4d6a-88fa-e212fd769ac0")
-		(property "Reference" "C23"
+		(property "Reference" "C28"
 			(at 375.158 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15645,7 +16001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 380.6952 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -15697,7 +16053,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C23")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -15714,7 +16070,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1e9b220b-ea51-4c1c-badf-dc0baed2a2cf")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR037"
 			(at 260.35 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -15817,7 +16173,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR075")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -15834,7 +16190,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "216d283f-bff6-4ecb-9eff-94e148e6bd10")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR055"
 			(at 367.919 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -15937,7 +16293,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR059")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -15954,7 +16310,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2268ebd9-fe96-4954-b27b-ad4359ee64af")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR043"
 			(at 275.59 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -16013,7 +16369,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR049")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -16030,7 +16386,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2349bd88-341a-4d3b-b1dc-cf5715dbb2bd")
-		(property "Reference" "C29"
+		(property "Reference" "C19"
 			(at 275.082 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16102,7 +16458,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C29")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -16119,7 +16475,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25421795-7e09-4112-93c2-d80313cb02d5")
-		(property "Reference" "C25"
+		(property "Reference" "C7"
 			(at 204.724 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16191,7 +16547,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C25")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -16209,7 +16565,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "25d1745a-d1a0-4147-a156-04efca0fc191")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR021"
 			(at 210.82 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -16269,7 +16625,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR030")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -16286,7 +16642,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25e09f14-7674-4f20-91e9-767ec9f07e28")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR046"
 			(at 295.91 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -16298,7 +16654,7 @@
 			)
 		)
 		(property "Value" "+1V8_CARAVEL"
-			(at 297.688 169.418 90)
+			(at 303.276 179.07 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16345,7 +16701,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR083")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -16362,7 +16718,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "266b211c-16cd-479d-86f2-868605f237c8")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR057"
 			(at 379.73 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -16465,7 +16821,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR067")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -16483,7 +16839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bc02d77-eb3a-4949-9e11-4a5549ea9f76")
-		(property "Reference" "J5"
+		(property "Reference" "J6"
 			(at 210.82 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16584,7 +16940,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "J5")
+					(reference "J6")
 					(unit 1)
 				)
 			)
@@ -16601,7 +16957,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2e7c8e2e-c8a0-470e-bebc-c0d523e2dc4b")
-		(property "Reference" "R13"
+		(property "Reference" "R8"
 			(at 246.38 43.18 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16673,7 +17029,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R13")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -16690,7 +17046,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "300f1ee9-e421-4a9c-bd7b-a60b80f1be30")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR041"
 			(at 267.462 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -16793,7 +17149,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR048")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -16810,7 +17166,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "32702739-fe3f-4d29-b2cf-a3587e16e415")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR058"
 			(at 387.858 112.522 0)
 			(hide yes)
 			(show_name no)
@@ -16913,7 +17269,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR061")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -16930,7 +17286,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "33920c43-ae20-43d1-9814-41deef1ca2fb")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 240.03 237.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17001,7 +17357,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -17018,7 +17374,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "363d8a74-c767-4ed9-9bcd-2017a46f2812")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR016"
 			(at 198.374 24.9843 0)
 			(hide yes)
 			(show_name no)
@@ -17121,7 +17477,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR026")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -17139,7 +17495,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37dee824-f6eb-44fa-88e1-5c3f25d3d59e")
-		(property "Reference" "Y3"
+		(property "Reference" "Y1"
 			(at 228.6 185.3498 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17207,7 +17563,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "Y3")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -17224,7 +17580,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3e85b566-d288-42b6-9f8e-39ddf69d1b00")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR056"
 			(at 379.73 171.45 0)
 			(hide yes)
 			(show_name no)
@@ -17327,7 +17683,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR066")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -17344,7 +17700,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3f5bf9aa-5242-481b-a87d-c5764a7ead05")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR07"
 			(at 120.777 244.602 0)
 			(hide yes)
 			(show_name no)
@@ -17403,7 +17759,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR016")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -17420,7 +17776,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fd7375f-71f4-447b-be85-f8ba56ead880")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR06"
 			(at 88.9 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -17523,7 +17879,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR012")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -17541,7 +17897,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4065e020-8fd2-46a6-80b5-a700114eaa75")
-		(property "Reference" "J8"
+		(property "Reference" "J5"
 			(at 156.845 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17603,7 +17959,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "J8")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -17620,7 +17976,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41548c98-661b-45e8-8e38-0c9e5ae33ac4")
-		(property "Reference" "C22"
+		(property "Reference" "C27"
 			(at 366.268 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17692,7 +18048,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C22")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -17709,7 +18065,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "42312742-d45d-4af1-9dc3-d11baf6ab929")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR059"
 			(at 387.858 120.142 0)
 			(hide yes)
 			(show_name no)
@@ -17812,7 +18168,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR062")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -17969,7 +18325,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4afd11c8-52c9-44de-9d54-cce6c6a50f23")
-		(property "Reference" "R20"
+		(property "Reference" "R16"
 			(at 339.09 178.562 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18041,7 +18397,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R20")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -18058,7 +18414,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4c03b1ed-a290-4722-a06b-1b8d92c5b390")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 358.648 32.512 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18320,7 +18676,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U8")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -18337,7 +18693,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4df055af-9869-48da-a5ab-c77deebee0e1")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR035"
 			(at 248.92 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -18440,7 +18796,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR044")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -18546,7 +18902,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "52b50d4c-ddc7-4b2d-99f8-eefb33ca0ef9")
-		(property "Reference" "R16"
+		(property "Reference" "R12"
 			(at 323.85 178.308 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18618,7 +18974,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R16")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -18635,7 +18991,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "53349a51-9fba-4efc-9b1a-4bd52490f5c6")
-		(property "Reference" "R12"
+		(property "Reference" "R7"
 			(at 246.38 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18707,7 +19063,127 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R12")
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 87.63 256.54 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5398b322-d428-487d-b92d-c909711c8449")
+		(property "Reference" "#PWR060"
+			(at 81.28 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 82.55 256.54 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 87.63 256.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Device" "V"
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Type" "DC"
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=+"
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Params" "dc=0"
+			(at 87.63 256.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0d736ae8-087e-454c-8feb-e278be973884")
+		)
+		(instances
+			(project "Caravel-Breakout-Pico-Rev-0.0"
+				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -18724,7 +19200,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5cc0c21c-e93c-4636-a8a8-3a4f3e87fd22")
-		(property "Reference" "C33"
+		(property "Reference" "C24"
 			(at 300.482 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18796,7 +19272,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C33")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -18813,7 +19289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5def3054-beb1-447d-bbf5-72148a5aab6b")
-		(property "Reference" "R7"
+		(property "Reference" "R2"
 			(at 205.994 21.082 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18885,7 +19361,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R7")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -18992,7 +19468,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ebcf989-0704-4138-9250-a808d198c5de")
-		(property "Reference" "U11"
+		(property "Reference" "U4"
 			(at 262.4933 190.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19243,7 +19719,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U11")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -19260,7 +19736,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5f0b7ca8-66ab-4cd9-a27f-903c6de09c28")
-		(property "Reference" "C32"
+		(property "Reference" "C23"
 			(at 294.132 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19332,7 +19808,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C32")
+					(reference "C23")
 					(unit 1)
 				)
 			)
@@ -19349,7 +19825,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5ff750cd-42f1-4774-8aa5-320be86e0cb2")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR039"
 			(at 266.7 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -19452,7 +19928,88 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR074")
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 92.71 256.54 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "61d0cfcd-7814-40fc-8ac1-8bfc509a87fb")
+		(property "Reference" "SW3"
+			(at 93.98 252.095 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "SW_Push - SKQGADE010"
+			(at 99.06 259.08 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "000My_Custom_Library:SW4-SMD-5.2X5.2X1.5MM"
+			(at 92.71 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 92.71 251.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 92.71 256.54 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "df4eab64-89b0-4cff-8fc2-51ead5b944ab")
+		)
+		(pin "2"
+			(uuid "1ce8550b-9597-4a81-9741-aee3d2c25c2a")
+		)
+		(instances
+			(project "Caravel-Breakout-Pico-Rev-0.0"
+				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -19469,7 +20026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62df3825-b76d-408b-992b-188ae9426418")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR020"
 			(at 209.55 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -19528,7 +20085,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR029")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -19545,7 +20102,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62e40191-e94d-46ae-8ab0-ddcd3e7f9e73")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR012"
 			(at 163.83 244.602 0)
 			(hide yes)
 			(show_name no)
@@ -19648,7 +20205,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR022")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -19665,7 +20222,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67c12a37-8396-46cc-a5e0-2fa1f3dfb348")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR011"
 			(at 158.75 265.43 0)
 			(hide yes)
 			(show_name no)
@@ -19768,7 +20325,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR021")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -19874,7 +20431,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6d42e8f3-9b6e-45ce-ae4b-73be30b28a82")
-		(property "Reference" "R9"
+		(property "Reference" "R3"
 			(at 229.87 76.2 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19936,7 +20493,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R9")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -19953,7 +20510,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "70f62911-01cb-4bb6-a011-de9d0bbb4b67")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR022"
 			(at 215.9 186.69 0)
 			(hide yes)
 			(show_name no)
@@ -20056,7 +20613,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR080")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -20073,7 +20630,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "74e3066d-01e4-4574-9bfd-e9c409a6ad0d")
-		(property "Reference" "R11"
+		(property "Reference" "R6"
 			(at 246.38 21.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20145,7 +20702,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R11")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -20162,7 +20719,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "766b3178-d4a6-43a7-8a3a-19b39be7758b")
-		(property "Reference" "C24"
+		(property "Reference" "C5"
 			(at 198.374 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20234,7 +20791,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C24")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -20251,7 +20808,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "77229b91-8398-4f1b-b1a5-bc5c4834a9f5")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR047"
 			(at 298.45 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -20354,7 +20911,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR072")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -20371,7 +20928,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7c22608a-85ca-40de-bc18-8b3824a75f83")
-		(property "Reference" "C37"
+		(property "Reference" "C13"
 			(at 251.714 75.438 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20443,7 +21000,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C37")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -20549,7 +21106,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "838ed7fd-e2ec-4f00-a778-e9bef62b24d4")
-		(property "Reference" "C14"
+		(property "Reference" "C18"
 			(at 262.255 248.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20621,7 +21178,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C14")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -20638,7 +21195,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "862a9b00-a2a0-4757-a56e-820d0af3f2ad")
-		(property "Reference" "C34"
+		(property "Reference" "C15"
 			(at 262.382 75.438 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20710,7 +21267,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C34")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -20727,7 +21284,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88678db3-b6ad-423d-8e19-7a47acad6510")
-		(property "Reference" "R21"
+		(property "Reference" "R17"
 			(at 342.9 178.562 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20799,7 +21356,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R21")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -20816,7 +21373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8b156def-9309-41c8-9f2e-e58409ed1c05")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR015"
 			(at 198.12 190.5 0)
 			(hide yes)
 			(show_name no)
@@ -20919,7 +21476,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR081")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -21010,7 +21567,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8e0a2cd0-58d2-460f-8172-42c9cc5c5a10")
-		(property "Reference" "C26"
+		(property "Reference" "C9"
 			(at 211.074 127.508 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21082,7 +21639,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C26")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -21099,7 +21656,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9033d607-6594-4752-8d3a-ecb11c4b3706")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR09"
 			(at 146.558 266.192 0)
 			(hide yes)
 			(show_name no)
@@ -21202,7 +21759,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR019")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -21219,7 +21776,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "907d3c2c-52b9-49c4-916c-0ae1b33911c3")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR033"
 			(at 240.03 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -21278,7 +21835,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR043")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -21435,7 +21992,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91843b2e-3ca7-4a74-b92d-4fc64f6889d9")
-		(property "Reference" "C20"
+		(property "Reference" "C25"
 			(at 347.98 141.224 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21507,7 +22064,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C20")
+					(reference "C25")
 					(unit 1)
 				)
 			)
@@ -21524,7 +22081,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "91a4aeda-6a74-4670-857d-c8ffa88890cb")
-		(property "Reference" "C21"
+		(property "Reference" "C26"
 			(at 357.378 171.45 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21596,7 +22153,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C21")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -21613,7 +22170,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9438e0bf-fb24-4afe-aac2-03d2321b30c4")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR026"
 			(at 229.235 72.136 0)
 			(hide yes)
 			(show_name no)
@@ -21672,7 +22229,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR037")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -21689,7 +22246,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "94683540-b1b6-43dc-9b29-2fc9694efa93")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR051"
 			(at 335.28 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -21792,7 +22349,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR055")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -21809,7 +22366,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9a680b30-a490-4773-a684-5fd33946ae5a")
-		(property "Reference" "C28"
+		(property "Reference" "C16"
 			(at 268.732 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21881,7 +22438,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C28")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -21899,7 +22456,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d75993d-7908-42b6-97f6-74bd2dc7c067")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR03"
 			(at 54.61 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -21958,7 +22515,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR09")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -21975,7 +22532,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9eec52ac-eb5f-468f-ad62-2a6b16187761")
-		(property "Reference" "C5"
+		(property "Reference" "C4"
 			(at 187.325 248.92 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22047,7 +22604,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C5")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -22064,7 +22621,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9f9fc33a-792e-40f1-9ea8-7856c1d102d4")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR08"
 			(at 130.81 266.192 0)
 			(hide yes)
 			(show_name no)
@@ -22167,7 +22724,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR017")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -22267,7 +22824,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a4f58ada-c7d2-40cb-9914-72617d866632")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 200.66 237.236 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22338,7 +22895,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -22355,7 +22912,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "a5230a3b-13be-4ec6-8e50-1214334d1270")
-		(property "Reference" "C27"
+		(property "Reference" "C14"
 			(at 262.382 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22427,7 +22984,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C27")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -22444,7 +23001,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a6af1cc8-8e98-4f0e-a391-278d28e2ed02")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR050"
 			(at 335.28 146.7367 0)
 			(hide yes)
 			(show_name no)
@@ -22547,7 +23104,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR054")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -22564,7 +23121,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab9098f6-f316-41a7-8c45-4d45be40ecce")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR032"
 			(at 238.76 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -22667,7 +23224,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR042")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -22770,7 +23327,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b44eb478-ae3a-490f-a792-a54895e4262d")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR034"
 			(at 247.65 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -22873,7 +23430,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR077")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -22890,7 +23447,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b4e31bc9-6c83-412f-9ff3-8618624ddc1b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR02"
 			(at 46.736 252.984 0)
 			(hide yes)
 			(show_name no)
@@ -22993,7 +23550,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR04")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -23010,7 +23567,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b5d2f248-0e60-405a-ac80-5b53702c3ca3")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR044"
 			(at 284.48 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -23113,7 +23670,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR051")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -23219,7 +23776,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b633d27f-cdb1-4a9a-bf81-2582077b4024")
-		(property "Reference" "C38"
+		(property "Reference" "C12"
 			(at 251.714 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23291,7 +23848,106 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C38")
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Memory_Flash:W25Q128JVS")
+		(at 353.06 190.5 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b63bed19-4c76-4184-8823-a1059879175d")
+		(property "Reference" "U6"
+			(at 364.49 189.2299 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "W25Q16JVUXIQ"
+			(at 351.282 210.566 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "000My_Custom_Library:USON-8_UX_2x3x0p6_WIN"
+			(at 353.06 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
+			(at 353.06 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8"
+			(at 353.06 162.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "5aed9273-8a3c-4680-85a0-091c6be006db")
+		)
+		(pin "4"
+			(uuid "c274546b-c6ea-4a3e-a29f-8727b0b28035")
+		)
+		(pin "1"
+			(uuid "a70b7555-2ebf-4830-be26-d7d45e3c0333")
+		)
+		(pin "6"
+			(uuid "903cc860-6f6b-405c-b1a7-0e794a0732c1")
+		)
+		(pin "7"
+			(uuid "88e8a59a-d27a-4493-b632-7e67924578b2")
+		)
+		(pin "3"
+			(uuid "b73ed107-6a92-4c59-8331-b13e0b2a4e37")
+		)
+		(pin "2"
+			(uuid "1237bb0f-2883-4f19-83ae-c5239098fde1")
+		)
+		(pin "8"
+			(uuid "63b2e205-0c38-4007-8683-be43fdd0ef17")
+		)
+		(instances
+			(project "Caravel-Breakout-Pico-Rev-0.0"
+				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -23308,7 +23964,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7730c39-7f2a-4c90-bab6-c9731422ed11")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR028"
 			(at 233.68 123.19 0)
 			(hide yes)
 			(show_name no)
@@ -23367,7 +24023,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR078")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -23384,7 +24040,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b781e0a8-e601-4fd3-b9ea-8ce55403a8e5")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR040"
 			(at 266.7 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -23443,7 +24099,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR047")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -23541,7 +24197,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b82d5044-e3f2-40dd-9bf1-2a0bba751d8b")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR052"
 			(at 329.438 90.932 0)
 			(hide yes)
 			(show_name no)
@@ -23644,7 +24300,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR056")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -23661,7 +24317,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b9f00e5c-f1a1-4e95-a36e-29cba8a5a6db")
-		(property "Reference" "C30"
+		(property "Reference" "C20"
 			(at 281.432 61.468 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23733,7 +24389,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C30")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -23750,7 +24406,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ba20453f-3db7-4de8-8b50-4aa8347de4ee")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR018"
 			(at 200.66 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -23809,7 +24465,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR070")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -23915,7 +24571,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bcbc3c15-6f2e-487f-980f-6a56ddb98cbb")
-		(property "Reference" "R10"
+		(property "Reference" "R4"
 			(at 229.87 78.74 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -23977,7 +24633,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R10")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -23994,7 +24650,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "bd50b187-aded-495f-8cf8-1d99abdec4d8")
-		(property "Reference" "R14"
+		(property "Reference" "R10"
 			(at 298.45 35.179 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24066,7 +24722,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R14")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -24083,7 +24739,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "be16c045-d884-4d6c-b57a-54b5093c0075")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR042"
 			(at 273.05 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -24186,107 +24842,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR076")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Memory_Flash:W25Q128JVS")
-		(at 353.06 190.5 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c20942c9-ac58-4ec7-b0a3-a99b6c9e6e2c")
-		(property "Reference" "U10"
-			(at 364.49 189.2299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "W25Q128JVS"
-			(at 364.49 191.7699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
-			(at 353.06 167.64 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
-			(at 353.06 165.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8"
-			(at 353.06 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "5"
-			(uuid "85f92738-0661-4b43-b818-bc7660f0a323")
-		)
-		(pin "4"
-			(uuid "99d4f67d-a1e1-4ecf-bd3e-a9fa5aee8b3b")
-		)
-		(pin "1"
-			(uuid "f38d34ea-8d13-419a-a2fd-b6f9c7c61006")
-		)
-		(pin "6"
-			(uuid "d6078d7f-b8d2-47b6-873e-f0d0ec4ffb11")
-		)
-		(pin "7"
-			(uuid "72717c23-333a-42f1-9272-2d8879143b1e")
-		)
-		(pin "3"
-			(uuid "1531c9ed-86a3-4e6f-8d53-32b051373d06")
-		)
-		(pin "2"
-			(uuid "3ce74895-268c-49c1-9090-974251f92da6")
-		)
-		(pin "8"
-			(uuid "2c12cc6c-dcf2-4792-ab25-4cc4fdec693b")
-		)
-		(instances
-			(project "Caravel-Breakout-Pico-Rev-0.0"
-				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U10")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -24304,7 +24860,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c4fc8603-09d2-49e3-9b1c-42c1eceaed11")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR01"
 			(at 39.37 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -24407,7 +24963,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR03")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -24424,7 +24980,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "caaebedb-4048-44c0-b6d3-63fc4000e125")
-		(property "Reference" "C4"
+		(property "Reference" "C3"
 			(at 163.83 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24496,7 +25052,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C4")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -24513,7 +25069,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cc656b25-61c0-4681-aa0d-52b8e6ec865e")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR031"
 			(at 238.76 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -24616,7 +25172,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR041")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -24633,7 +25189,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cf137f69-0c7a-4a9f-872b-021a788755b5")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR038"
 			(at 260.35 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -24692,7 +25248,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR068")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -24709,7 +25265,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d2401f8f-dbfe-4640-be68-4174feaaed4f")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR019"
 			(at 200.66 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -24768,7 +25324,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR028")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -24785,7 +25341,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d50121f4-2db7-4a01-a998-b22f97c92ab0")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR054"
 			(at 358.902 153.924 0)
 			(hide yes)
 			(show_name no)
@@ -24888,7 +25444,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR058")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -24906,7 +25462,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d633f285-0fa3-4e67-976d-83e171465542")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR029"
 			(at 237.49 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -24967,7 +25523,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR039")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -24984,7 +25540,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d726ef72-765a-492f-a3d7-a677eea3c1e6")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR045"
 			(at 293.37 179.07 0)
 			(hide yes)
 			(show_name no)
@@ -24996,7 +25552,7 @@
 			)
 		)
 		(property "Value" "+3V3_CARAVEL"
-			(at 291.338 169.164 90)
+			(at 303.276 176.53 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25087,7 +25643,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR082")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -25104,7 +25660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d96a7d9d-e57a-4825-8779-aeda735c1e9e")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR049"
 			(at 322.58 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -25207,7 +25763,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR064")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -25397,7 +25953,7 @@
 		(in_pos_files yes)
 		(dnp yes)
 		(uuid "dcefd013-bcb8-4942-8268-0cc3c0e4c53d")
-		(property "Reference" "U9"
+		(property "Reference" "U8"
 			(at 392.43 222.6056 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25487,7 +26043,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "U9")
+					(reference "U8")
 					(unit 1)
 				)
 			)
@@ -25504,7 +26060,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "def88ac8-4731-4d3d-a61f-42dc495b4d59")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR010"
 			(at 158.75 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -25563,7 +26119,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR020")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -25580,7 +26136,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dff8c93b-619a-4c8d-a750-5bdca8992d05")
-		(property "Reference" "R22"
+		(property "Reference" "R5"
 			(at 231.14 134.62 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25652,7 +26208,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R22")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -25669,7 +26225,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e253ccd8-a3e4-4fb5-a39c-bbaaf68cba31")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR048"
 			(at 303.53 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -25772,7 +26328,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR052")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -25789,7 +26345,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e2b527cd-a578-4bcf-bb13-939d8ae6d437")
-		(property "Reference" "R18"
+		(property "Reference" "R14"
 			(at 331.47 178.308 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25861,7 +26417,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R18")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -25878,7 +26434,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e511259f-66f2-46eb-82df-3dacda7d3c32")
-		(property "Reference" "C3"
+		(property "Reference" "C2"
 			(at 151.638 252.73 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25950,7 +26506,107 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C3")
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Memory_Flash:W25Q128JVS")
+		(at 441.96 242.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "e5c74c8a-c610-4327-aedd-a49250e34f3c")
+		(property "Reference" "U9"
+			(at 453.39 241.2999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "W25Q128JVS"
+			(at 453.39 243.8399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
+			(at 441.96 219.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.winbond.com/resource-files/w25q128jv_dtr%20revc%2003272018%20plus.pdf"
+			(at 441.96 217.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "128Mbit / 16MiB Serial Flash Memory, Standard/Dual/Quad SPI, 2.7-3.6V, SOIC-8"
+			(at 441.96 214.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "05a61d5b-d894-4572-bf31-135392e4e373")
+		)
+		(pin "4"
+			(uuid "4c98636b-6b98-4cc0-bd9b-50539a270a2b")
+		)
+		(pin "1"
+			(uuid "83ae989a-e1e8-4bca-a387-7e426ba1338b")
+		)
+		(pin "6"
+			(uuid "2ee9e88c-1a38-41e9-8b79-584b4b7622ed")
+		)
+		(pin "7"
+			(uuid "2a88c880-6bb7-47ad-aa7c-0fdf99c5660d")
+		)
+		(pin "3"
+			(uuid "94cd4752-a529-41ec-83cb-0eed051718fe")
+		)
+		(pin "2"
+			(uuid "cebdf29c-73e1-4b42-8b0a-fb4841c01def")
+		)
+		(pin "8"
+			(uuid "201ef396-37bf-4c57-8095-1be3d81ecbfc")
+		)
+		(instances
+			(project "Caravel-Breakout-Pico-Rev-0.0"
+				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -25967,7 +26623,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "eb6d14c8-de70-45db-b22a-66eea8066cdb")
-		(property "Reference" "C36"
+		(property "Reference" "C6"
 			(at 203.2 179.324 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26039,7 +26695,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "C36")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -26056,7 +26712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ebdf8f3e-6de4-498e-a9e1-687dad88dbdc")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR027"
 			(at 231.14 243.84 0)
 			(hide yes)
 			(show_name no)
@@ -26115,7 +26771,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR038")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -26303,7 +26959,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f1122582-5b2d-44ed-bb9d-fa4370f55900")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR036"
 			(at 260.35 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -26406,7 +27062,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR073")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -26423,7 +27079,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f29fd06f-cea3-4317-af37-0a06daed6411")
-		(property "Reference" "R6"
+		(property "Reference" "R1"
 			(at 205.74 33.02 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -26495,7 +27151,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "R6")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -26601,7 +27257,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6f5d6de-6555-49a8-a190-72d1a8bd746c")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR053"
 			(at 353.06 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -26704,7 +27360,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR065")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -26721,7 +27377,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "fee1181c-e11f-4847-84ec-60ccff2748fc")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR030"
 			(at 238.76 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -26824,7 +27480,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR040")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -26841,7 +27497,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ffc0bc75-be4e-4d14-903d-7cb488a5fff8")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR023"
 			(at 215.9 205.74 0)
 			(hide yes)
 			(show_name no)
@@ -26944,7 +27600,7 @@
 		(instances
 			(project "Caravel-Breakout-Pico-Rev-0.0"
 				(path "/6d7a4d05-3bd6-4623-a293-816712af04ea"
-					(reference "#PWR079")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
